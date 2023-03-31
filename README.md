@@ -1,4 +1,5 @@
 # Project: Vanilla NodeJs API
+[Visit this link to see the a better documentaion of this](https://documenter.getpostman.com/view/26642367/2s93RTSYpk#5f01fb7b-d100-406f-9249-25a3e62fcd13)
 This is a Vanilla NodeJS API that I made to understand the basic of what does Frameworks like express do under the hood to manage RESTful processes.
 
 ## End-point: /api/products
