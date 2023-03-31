@@ -1,6 +1,6 @@
 # Vanilla Node REST API
 
-> Full CRUD REST API using Node.js with no framework, just an experiment to understand the fundaments of how to build an API with no frameworks.
+Full CRUD REST API using Node.js with no framework, just an experiment to understand the fundaments of how to build an API with no frameworks.
 
 ```
 # Routes
